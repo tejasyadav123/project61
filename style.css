@@ -1,0 +1,47 @@
+body{
+  margin: 0px;
+  color:white;
+  text-align:center;
+   background: linear-gradient(#e30909 0%, #f7ef07 100%);
+}
+#im{
+  border-radius:50%;
+}
+#hb{
+  font-size:50px;
+}
+.menu{
+   list-style: none;
+    font-family:cursive;
+   float:right;
+    top:10px;
+    right:50px;
+    cursor: pointer;
+    color:black;
+}
+.link{
+    color:blue;
+    display: inline;
+    padding-top:15px;
+    padding-left:9px;
+    padding-right:15px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+#welcome{
+ padding: 70px;
+    text-align: center;
+}
+#bio{
+    font-size: 23px;
+    padding: 20px;
+}
+.link:hover{
+    background-color: white
+}
+img:hover{
+    transform: scale(0.9)
+}
+iframe{
+    width: 100%;
+}
